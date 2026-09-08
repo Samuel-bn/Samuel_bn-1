@@ -1,4 +1,3 @@
-code README.md
 # Hi, I'm Samuel 👋
 
 Welcome to my GitHub profile!
